@@ -54,14 +54,7 @@ const Hero = () => {
           </motion.p>
 
 
-          <div className="flex space-x-6 mt-4">
-            <a href="www.linkedin.com/in/satyam-manojlal-bharti-13997b214" target="_blank" rel="noopener noreferrer">
-              <img src={linkedIn} alt="LinkedIn" className="w-10 h-10 transition-transform duration-300 hover:scale-110" />
-            </a>
-            <a href="https://github.com/satyam70288" target="_blank" rel="noopener noreferrer">
-              <img src={github} alt="GitHub" className=" bg-white-100 rounded-full w-10 h-10 transition-transform duration-300 hover:scale-110 text-white-100" />
-            </a>
-          </div>
+         
 
         </div>
       </div>
